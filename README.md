@@ -102,6 +102,8 @@ Run The App from Command line
 Type: python App.py
 
 Screenshot of Output
+<img width="1002" height="674" alt="output screenshot" src="https://github.com/user-attachments/assets/db8d0b89-104e-44d8-81b6-71bc4899937e" />
+
  
 --- Regression Results (Summary) ---
                             OLS Regression Results
